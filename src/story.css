@@ -1,0 +1,9 @@
+@import url('./index.css');
+
+.row-elements {
+  display: flex;
+}
+
+.row-elements > * {
+  margin: 8px;
+}
