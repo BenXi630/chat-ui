@@ -37,32 +37,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Project Preview
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Chat App
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://github.com/BenXi630/chat-ui/blob/master/preview/localhost_3000_%20(1).png?raw=true)
+![image](https://github.com/BenXi630/chat-ui/blob/20bafddc606e25155aa8cd90950655704df9120e/preview/localhost_3000_settings.png?raw=true)
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Chat Components
+![image](https://github.com/BenXi630/chat-ui/blob/master/preview/localhost_9009__path=_story_ui%25E7%25BB%2584%25E4%25BB%25B6-chatbubble--mine.png?raw=true)
